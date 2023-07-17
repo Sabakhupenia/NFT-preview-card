@@ -4,7 +4,8 @@ This project is a simple NFT preview card created using HTML and CSS. It showcas
 
 ## Preview
 
-Include a screenshot or GIF showcasing the NFT preview card here.
+![image](https://github.com/Sabakhupenia/NFT-preview-card/assets/131442959/bd16076b-9332-4ffe-b366-4921b271aedf)
+
 
 ## Features
 
